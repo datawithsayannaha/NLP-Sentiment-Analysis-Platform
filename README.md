@@ -1,4 +1,4 @@
-# 🧠 NLP Sentiment Intelligence System (Twitter)
+# 💬 NLP Sentiment Intelligence System (Twitter)
 
 ## 📌 Project Overview
 
